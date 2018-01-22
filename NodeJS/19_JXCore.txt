@@ -1,0 +1,5 @@
+https://www.tutorialspoint.com/nodejs/nodejs_packaging.htm
+
+https://github.com/jxcore/jxcore-release
+
+Ha NodeJs egybe szeretnem packageolni.
